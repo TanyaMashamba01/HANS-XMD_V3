@@ -1,8 +1,8 @@
 ##          𝑯𝑨𝑵𝑺-𝐓𝐳 𝑻𝑬𝑪𝑯 🔥
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31">
-    <img src="https://files.catbox.moe/1mdmlu.jpg" alt="Hans XMD V3 Banner" />
+  <a href="https://whatsapp.com/channel/0029VaraMtfFcowAKRdDdp1T">
+    <img src="https://i.postimg.cc/4NdSqms8/MidKing.jpg" alt="Hans XMD V3 Banner" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 ### 🌍 Hosting Platforms  
 
 #### 1️⃣ Deploy to Heroku  
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/Mrhanstz/HANS-XMD_V3)
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/TanyaMashamba01/HANS-XMD_V3)
 
 #### 2️⃣ Deploy to Railway  
 [![Deploy to Railway](https://img.shields.io/badge/Deploy-Railway-000000?style=for-the-badge&logo=railway)](https://railway.app/)
